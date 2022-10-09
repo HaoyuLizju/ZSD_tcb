@@ -132,4 +132,4 @@ python tools/zsi_coco_eval.py results/zsd_48_17.bbox.json --ann data/coco/annota
 ```
 python tools/gzsi_coco_eval.py results/gzsd_48_17.bbox.json --ann data/coco/annotations/instances_val2014_gzsi_48_17.json --gzsi --num-seen-classes 48
 ```
-
+You can also get our pretrained weight by [link](https://pan.baidu.com/s/19GAsPeuAIC8D1L4BbqqhfA?pwd=07vr).
